@@ -1,4 +1,4 @@
-# [Vue Basic Webpack Template](https://cristijora.github.io/vue-paper-dashboard/) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
+# [Vue Basic Webpack Template](https://github.com/gosticks/vue-simple-webpack-router-vuex) [![version][version-badge]][CHANGELOG] [![license][license-badge]][LICENSE]
 
 > Simple Vue Webpack Router Vuex Template
 
