@@ -2,7 +2,7 @@
 
 > Simple Vue Webpack Router Vuex Template
 
-This template is based on the great setup cristijora did for his dashboard project (which you can see here[Vue-Paper-Dashboard](https://cristijora.github.io/vue-paper-dashboard/))
+This template is based on the great setup [cristijora](https://github.com/cristijora) did for his dashboard project (which you can see here [vue-paper-dashboard](https://github.com/cristijora/vue-paper-dashboard))
 
 
 ## Documentation
@@ -33,7 +33,7 @@ Link to [Documentation](https://cristijora.github.io/vue-paper-dashboard-docs/#/
   });
   ```
 * Please don't use jQuery or jQuery based plugins since there are many pure Vue alternatives
-* Write unit tests for your custom components. See fgInput.spec and paper-table.spec
+* Write unit tests for your custom components
 
 For detailed explanation on how things work, checkout the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
 
