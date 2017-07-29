@@ -1,7 +1,7 @@
 {
-  "name": "vue-webshop",
-  "version": "0.0.1",
-  "description": "A sample Webshop template",
+  "name": "vue-simple-webpack-router-vuex",
+  "version": "0.1.0",
+  "description": "A sample Vue Webpack Router Vuex Linter template",
   "author": "wlad.meixner <wlad@desertbit.com>",
   "private": true,
   "scripts": {

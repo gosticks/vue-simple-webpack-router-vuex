@@ -5,8 +5,7 @@
 This template is based on the great setup [cristijora](https://github.com/cristijora) did for his dashboard project (which you can see here [vue-paper-dashboard](https://github.com/cristijora/vue-paper-dashboard))
 
 
-<!-- ## Documentation
-Link to [Documentation](https://cristijora.github.io/vue-paper-dashboard-docs/#/) -->
+<!-- ## Documentation -->
 
 ## Build Setup
 
